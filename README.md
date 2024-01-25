@@ -1,0 +1,2 @@
+# wad-practicals
+all practicals
